@@ -1,4 +1,4 @@
-# anomaly-detection-project
+# Anomaly Detection Project
 
 ### Using the web access log to the Codeup curriculum, we will answer the following questions:
 1. Which lesson appears to attract the most traffic consistently across cohorts (per program)?
@@ -17,3 +17,6 @@
 
 
 [Click Here](https://github.com/AI-Gomez/anomaly-detection-project/blob/main/notebook.ipynb) to go to the notebook.
+
+
+A key is needed to use the ip locator found in the notebook. A key can be found [Here](https://free-geo-ip.p.rapidapi.com)
